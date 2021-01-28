@@ -13,4 +13,4 @@ their score.\
 • If both players have the same score at the end of the 5 rounds, they each roll 1 die and
 whoever gets the highest score wins (this repeats until someone wins).\
 Only authorised players are allowed to play the game.\
-The user name of authorised players is stored in a csv file.(Players.csv)\
+The user name of authorised players is stored in a csv file.(Players.csv)
